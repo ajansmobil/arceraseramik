@@ -1,0 +1,23 @@
+{
+  "id": "kullanicahaklari",
+  "path": "kullanicahaklari",
+  "name": {
+    "tr": "Kullanıcı Hakları"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Kullanıcı Hakları"
+  },
+  "description": {
+    "tr": "Arsera Seramik kullanıcı hakları. Müşteri hakları ve şikayet süreçleri hakkında bilgiler."
+  },
+  "keyword": {
+    "tr": "arsera seramik kullanici haklari, munteri haklari"
+  },
+  "img": "haklar.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Kullanıcı Hakları</h2>\n<p>Arsera Seramik olarak, müşterilerimizin haklarına saygı duyuyor ve bu hakların korunması için çalışıyoruz.</p>\n<h3>Müşteri Hakları</h3>\n<ul>\n<li>Doğru ve eksiksiz bilgi alma hakkı</li>\n<li>Ürün ve hizmetlerimizden eşit şekilde yararlanma hakkı</li>\n<li>Güvenli alışveriş yapma hakkı</li>\n<li>Şikayet ve önerilerde bulunma hakkı</li>\n<li>Kişisel verilerinin korunma hakkı</li>\n</ul>\n<h3>Şikayet ve Öneriler</h3>\n<p>Şikayet ve önerilerinizi bize iletebilirsiniz. Tüm talepleriniz en kısa sürede değerlendirilecek ve size geri dönüş yapılacaktır.</p>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

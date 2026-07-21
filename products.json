@@ -1,0 +1,296 @@
+{
+  "name": "Markalar",
+  "path": "products",
+  "data": [
+    {
+      "name": {
+        "tr": "Iris"
+      },
+      "id": "iris-seramik",
+      "index": 0,
+      "path": "iris-seramik",
+      "category": "",
+      "img": "iris.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Iris FMG ve Iris Ceramica büyük format porselenleri Arsera showroomunda renk ve doku eşleştirmesiyle inceleyin; konut ve ticari projeler için yetkili bayi danışmanlığı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Settecento"
+      },
+      "id": "settecento-seramik",
+      "index": 1,
+      "path": "settecento-seramik",
+      "category": "",
+      "img": "settecento.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Settecento İtalyan mozaik ve dekoratif seramikleri Arsera’da desen ölçüsü ve derz rengiyle birlikte görün; banyo ve yaşam alanı projelerinde showroom danışmanlığı alın."
+      }
+    },
+    {
+      "name": {
+        "tr": "Hidra"
+      },
+      "id": "hidra-seramik",
+      "index": 2,
+      "path": "hidra-seramik",
+      "category": "",
+      "img": "hidra.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Hidra İtalyan seramik ve tamamlayıcı sıhhi ürünleri Arsera showroomunda; banyo yenileme ve konut projelerinde yüzey–tesisat uyumunu yerinde planlayın."
+      }
+    },
+    {
+      "name": {
+        "tr": "TECE"
+      },
+      "id": "tece-tesisat",
+      "index": 3,
+      "path": "tece-tesisat",
+      "category": "",
+      "img": "tece.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "TECE gizli rezervuar ve duvara montaj tesisat çözümlerini Arsera showroomunda görün; panel–buton uyumu ve bakım erişimi için yetkili satıcı danışmanlığı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Hansgrohe"
+      },
+      "id": "hansgrohe-batarya",
+      "index": 4,
+      "path": "hansgrohe-batarya",
+      "category": "",
+      "img": "hansgrohe.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Hansgrohe batarya ve duş sistemlerini Arsera’da musluk–duş seti kombinasyonlarıyla deneyin; su tasarrufu ve montaj uyumu için yetkili bayi teknik yönlendirmesi."
+      }
+    },
+    {
+      "name": {
+        "tr": "Duravit"
+      },
+      "id": "duravit-sihhi-tesisat",
+      "index": 5,
+      "path": "duravit-sihhi-tesisat",
+      "category": "",
+      "img": "duravit.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Duravit klozet, lavabo ve banyo mobilyalarını Arsera showroomunda bir arada görün; konut ve otel projelerinde ölçü–montaj uyumu için yetkili bayi rehberliği."
+      }
+    },
+    {
+      "name": {
+        "tr": "Geberit"
+      },
+      "id": "geberit-rezervuar",
+      "index": 6,
+      "path": "geberit-rezervuar",
+      "category": "",
+      "img": "geberit.jpg",
+      "status": "play",
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Geberit gömme rezervuar, sifon ve montaj sistemlerini Arsera’da inceleyin; alçıpan ve duvar tipi uygulamalarda taşıyıcı–panel eşleştirmesi için bayi teknik desteği."
+      }
+    },
+    {
+      "name": {
+        "tr": "Laufen"
+      },
+      "id": "laufen-banyo",
+      "index": 7,
+      "path": "laufen-banyo",
+      "category": "",
+      "img": "laufen.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Laufen İsviçre banyo seramikleri ve vitrifiyeleri Arsera’da; minimalist form arayan projelerde lavabo–klozet hattı ve seramik yüzey uyumu için showroom desteği."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kale Seramik"
+      },
+      "id": "kale-seramik",
+      "index": 8,
+      "path": "kale-seramik",
+      "category": "",
+      "img": "kale.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Kale Seramik geniş ürün gamını Arsera’da stok ve sipariş hatlarıyla birlikte sunuyoruz; konut, site ve ticari projelerde renk–ebat eşleştirmesi için bayi desteği."
+      }
+    },
+    {
+      "name": {
+        "tr": "Seranit"
+      },
+      "id": "seranit",
+      "index": 9,
+      "path": "seranit",
+      "category": "",
+      "img": "seranit.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Seranit seramik ve banyo ürünlerini Arsera showroomunda karşılaştırın; fiyat–performans dengesi arayan konut ve toplu konut projelerinde yetkili satıcı danışmanlığı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Boheme Bagno"
+      },
+      "id": "boheme-bagno",
+      "index": 10,
+      "path": "boheme-bagno",
+      "category": "",
+      "img": "boheme.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Boheme Bagno İtalyan banyo mobilyalarını Arsera’da kapak–lavabo ve ayna modülleriyle birlikte planlayın; özel ölçü taleplerinde showroom proje danışmanlığı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Axor"
+      },
+      "id": "axor-premium",
+      "index": 11,
+      "path": "axor-premium",
+      "category": "",
+      "img": "axor.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Axor tasarım batarya ve aksesuarları Arsera premium banyo köşesinde; mimari projelerde musluk–lavabo uyumu ve yüzey kaplaması eşleştirmesi için danışın."
+      }
+    },
+    {
+      "name": {
+        "tr": "Weber"
+      },
+      "id": "weber-yapi-malzemeleri",
+      "index": 12,
+      "path": "weber-yapi-malzemeleri",
+      "category": "",
+      "img": "weber.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Weber yapıştırıcı, derz ve yalıtım sistemlerini Arsera’da seramik projelerinizle eşleştirin; ıslak hacim ve dış cephe uygulamalarında doğru ürün grubu seçimi."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kalekim"
+      },
+      "id": "kalekim",
+      "index": 13,
+      "path": "kalekim",
+      "category": "",
+      "img": "kalekim.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Kalekim inşaat kimyasalları ve seramik yapıştırıcılarını Arsera’da Kale Seramik projelerinizle birlikte planlayın; şantiye teslimi ve stok desteği için bayi hattı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Betsan"
+      },
+      "id": "betsan",
+      "index": 14,
+      "path": "betsan",
+      "category": "",
+      "img": "betsan.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Betsan banyo aksesuar ve tamamlayıcı mobilya parçalarını Arsera showroomunda seramik ve vitrifiye seçimlerinizle eşleştirin; konut projelerinde hızlı parça listesi."
+      }
+    },
+    {
+      "name": {
+        "tr": "Blanco"
+      },
+      "id": "blanco-batarya",
+      "index": 15,
+      "path": "blanco-batarya",
+      "category": "",
+      "img": "blanco.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Blanco eviye, batarya ve mutfak aksesuarlarını Arsera’da tezgah malzemesiyle birlikte değerlendirin; ada mutfak ve gömme eviye projelerinde bayi danışmanlığı."
+      }
+    },
+    {
+      "name": {
+        "tr": "Hüppe"
+      },
+      "id": "huppe-duvar",
+      "index": 16,
+      "path": "huppe-duvar",
+      "category": "",
+      "img": "huppe.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Hüppe duşakabin ve cam duvar sistemlerini Arsera’da profil–cam kombinasyonlarıyla inceleyin; banyo ölçüsüne göre modül seçimi için yetkili bayi desteği."
+      }
+    },
+    {
+      "name": {
+        "tr": "Schlüter"
+      },
+      "id": "schluter-profiller",
+      "index": 17,
+      "path": "schluter-profiller",
+      "category": "",
+      "img": "schluter.jpg",
+      "status": "play",
+      "icon": "home",
+      "description": {
+        "tr": "Schlüter kenar profili ve seramik montaj aksesuarlarını Arsera’da eşik, duş ve dış mekân detayları için inceleyin; profil–fayans kalınlığı eşleştirmesi danışın."
+      }
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": false,
+    "detail": true
+  },
+  "desc": []
+}

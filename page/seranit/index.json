@@ -1,0 +1,32 @@
+{
+  "id": "seranit",
+  "path": "seranit",
+  "name": {
+    "tr": "Seranit"
+  },
+  "title": {
+    "tr": "Seranit — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Seranit seramik ve banyo ürünlerini Arsera showroomunda karşılaştırın; fiyat–performans dengesi arayan konut ve toplu konut projelerinde yetkili satıcı danışmanlığı."
+  },
+  "keyword": {
+    "tr": "seranit seramik, banyo seramik, arsera, gaziantep bayi, seranit koleksiyon"
+  },
+  "img": "seranit.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Seranit</h2>\n<p>Seranit seramik ve banyo ürünlerini Arsera showroomunda karşılaştırın; fiyat–performans dengesi arayan konut ve toplu konut projelerinde yetkili satıcı danışmanlığı.</p>\n<p>Seranit seçimlerinde hem zemin hem duvar serilerini aynı mekân paletinde toplamak mümkündür; showroom ekibi ton farklarını gün ışığında kontrol eder.</p>\n<p>Toplu konut projelerinde numune onayı ve sevkiyat parti planı için proje sorumlunuzla doğrudan iletişim kurarak süreci hızlandırabilirsiniz.</p>\n<p>Arsera Seramik üretici değildir; Seranit ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Seramik & Yüzey</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.seranit.com.tr/\" target=\"_blank\" rel=\"noopener\">https://www.seranit.com.tr/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "seramik",
+  "officialUrl": "https://www.seranit.com.tr/",
+  "officialUrls": [
+    "https://www.seranit.com.tr/"
+  ],
+  "priority": 3,
+  "index": 9,
+  "category": "",
+  "icon": "home"
+}

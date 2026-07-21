@@ -1,0 +1,23 @@
+{
+  "id": "kisiselveriler",
+  "path": "kisiselveriler",
+  "name": {
+    "tr": "Kişisel Veriler"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Kişisel Verilerin Korunması"
+  },
+  "description": {
+    "tr": "Arsera Seramik kişisel verilerin korunması politikası. KVKK uyumlu bilgiler."
+  },
+  "keyword": {
+    "tr": "arsera seramik kvekk, kisisel veriler, veri koruma"
+  },
+  "img": "kisiselveriler.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Kişisel Verilerin Korunması</h2>\n<p>Arsera Seramik olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında kişisel verilerinizin güvenliği için gerekli tüm teknik ve idari tedbirleri almaktayız.</p>\n<h3>Veri Sorumlusu</h3>\n<p>Arsera Seramik, kişisel verilerin işlenme amaçlarını belirleyen, veri kayıt sisteminin kurulmasından ve bakımından sorumlu olan veri sorumlusudur.</p>\n<h3>Verilerinizin İşlenme Amaçları</h3>\n<ul>\n<li>Hizmet sunumu ve iyileştirilmesi</li>\n<li>Müşteri iletişimi ve destek hizmetleri</li>\n<li>Yasal yükümlülüklerin yerine getirilmesi</li>\n<li>Pazarlama ve tanıtım faaliyetleri</li>\n</ul>\n<h3>Veri Güvenliği</h3>\n<p>Kişisel verileriniz, endüstri standartlarında güvenlik önlemleri ile korunmaktadır. Yetkisiz erişim, ele geçirme, ifşa, bozma, kullanılamaz hale getirme ve imha gibi olumsuz durumlara karşı gerekli teknik ve idari tedbirler alınmaktadır.</p>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

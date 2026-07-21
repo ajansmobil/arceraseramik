@@ -1,0 +1,32 @@
+{
+  "id": "duravit-sihhi-tesisat",
+  "path": "duravit-sihhi-tesisat",
+  "name": {
+    "tr": "Duravit"
+  },
+  "title": {
+    "tr": "Duravit — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Duravit klozet, lavabo ve banyo mobilyalarını Arsera showroomunda bir arada görün; konut ve otel projelerinde ölçü–montaj uyumu için yetkili bayi rehberliği."
+  },
+  "keyword": {
+    "tr": "duravit banyo, klozet lavabo, arsera gaziantep, duravit mobilya, alman banyo"
+  },
+  "img": "duravit.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Duravit</h2>\n<p>Duravit klozet, lavabo ve banyo mobilyalarını Arsera showroomunda bir arada görün; konut ve otel projelerinde ölçü–montaj uyumu için yetkili bayi rehberliği.</p>\n<p>Asma klozet ve gömme rezervuar kombinasyonlarında duvar taşıyıcısı ve ön panel ölçüleri birlikte planlanır; showroom’da tipik montaj kesitleri anlatılır.</p>\n<p>Otel ve konut projelerinde aynı seriden farklı oda tipleri için parça listesi çıkarımında ekip, üretici kodlarını proje dilinize çevirir.</p>\n<p>Arsera Seramik üretici değildir; Duravit ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Banyo</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.duravit.com.tr/\" target=\"_blank\" rel=\"noopener\">https://www.duravit.com.tr/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "banyo",
+  "officialUrl": "https://www.duravit.com.tr/",
+  "officialUrls": [
+    "https://www.duravit.com.tr/"
+  ],
+  "priority": 1,
+  "index": 5,
+  "category": "",
+  "icon": "home"
+}

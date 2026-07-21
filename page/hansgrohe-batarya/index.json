@@ -1,0 +1,32 @@
+{
+  "id": "hansgrohe-batarya",
+  "path": "hansgrohe-batarya",
+  "name": {
+    "tr": "Hansgrohe"
+  },
+  "title": {
+    "tr": "Hansgrohe — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Hansgrohe batarya ve duş sistemlerini Arsera’da musluk–duş seti kombinasyonlarıyla deneyin; su tasarrufu ve montaj uyumu için yetkili bayi teknik yönlendirmesi."
+  },
+  "keyword": {
+    "tr": "hansgrohe batarya, duş sistemi, arsera gaziantep, alman armatür, hansgrohe showroom"
+  },
+  "img": "hansgrohe.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Hansgrohe</h2>\n<p>Hansgrohe batarya ve duş sistemlerini Arsera’da musluk–duş seti kombinasyonlarıyla deneyin; su tasarrufu ve montaj uyumu için yetkili bayi teknik yönlendirmesi.</p>\n<p>Duş seti, el duşu ve termostatik karışım seçimlerinde su basıncı ve tesisat derinliği birlikte ölçülür; uyumsuz parça riski showroom’da elenir.</p>\n<p>Renovasyonlarda eski gövdeye uygun adaptör ve rozet çözümleri konusunda uygulamacı ekiplerinize montaj notları paylaşılır.</p>\n<p>Arsera Seramik üretici değildir; Hansgrohe ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Banyo</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.hansgrohe.com.tr/\" target=\"_blank\" rel=\"noopener\">https://www.hansgrohe.com.tr/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "banyo",
+  "officialUrl": "https://www.hansgrohe.com.tr/",
+  "officialUrls": [
+    "https://www.hansgrohe.com.tr/"
+  ],
+  "priority": 1,
+  "index": 4,
+  "category": "",
+  "icon": "home"
+}

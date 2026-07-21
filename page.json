@@ -1,0 +1,253 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": ""
+      }
+    },
+    {
+      "name": {
+        "tr": "Markalar"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "urunler",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "arcball"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik showroomunda seramik, banyo, mutfak ve yapı markalarını segmentlere göre keşfedin; yetkili bayi danışmanlığı ve proje eşleştirmesi tek adreste."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98",
+          "bi4hta"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      }
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "hakkimizda",
+      "url": "",
+      "path": "hakkimizda",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "misyon",
+      "description": {
+        "tr": "Arsera Seramik hakkında bilgi."
+      }
+    },
+    {
+      "name": {
+        "tr": "Misyon"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "misyon",
+      "url": "",
+      "path": "misyon",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "vizyon",
+      "description": {
+        "tr": "Arsera Seramik misyonumuz."
+      }
+    },
+    {
+      "name": {
+        "tr": "Vizyon"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "vizyon",
+      "url": "",
+      "path": "vizyon",
+      "index": 5,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik vizyonu."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "kalitepolitikamiz",
+      "url": "",
+      "path": "kalitepolitikamiz",
+      "index": 6,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik kalite politikası."
+      }
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "gizlilikpolitikasi",
+      "url": "",
+      "path": "gizlilikpolitikasi",
+      "index": 7,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik gizlilik politikası."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "kisiselveriler",
+      "url": "",
+      "path": "kisiselveriler",
+      "index": 8,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik kişisel veriler politikası."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "kullanicahaklari",
+      "url": "",
+      "path": "kullanicahaklari",
+      "index": 9,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik kullanıcı hakları."
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı"
+      },
+      "status": "play",
+      "category": "kurumsal",
+      "id": "yasaluyari",
+      "url": "",
+      "path": "yasaluyari",
+      "index": 10,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Arsera Seramik yasal uyarı."
+      }
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": false,
+    "detail": true,
+    "body": true
+  }
+}

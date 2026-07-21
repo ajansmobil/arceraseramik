@@ -1,0 +1,36 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Arsera Seramik — Gaziantep’te İtalyan seramik ve Avrupa banyo markalarını tek showroom’da buluşturan yetkili satıcı; proje danışmanlığı ve yüz yüze seçim."
+  },
+  "keyword": {
+    "tr": "arsera seramik, arseraseramik.com, gaziantep seramik, showroom, iris, hansgrohe, duravit, geberit, laufen, kale, seranit, blanco, banyo, yapı malzemeleri"
+  },
+  "category": "Kurumsal",
+  "name": "Arsera Seramik",
+  "domain": "arseraseramik.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "eticaret": false,
+  "phone": "+90 342 000 00 00",
+  "mobile": "+90 544 460 06 74",
+  "email": "iskender@arseraseramik.com",
+  "address": "Pancarlı Mahallesi, Abdulkadir Aksu Bulvarı, A Blok, No: 71/L, Şehitkamil / Gaziantep",
+  "person": "İskender BOSTANCIERİ",
+  "title": "General Manager"
+}

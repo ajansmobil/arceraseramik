@@ -1,0 +1,38 @@
+{
+  "id": "geberit-rezervuar",
+  "path": "geberit-rezervuar",
+  "name": {
+    "tr": "Geberit"
+  },
+  "title": {
+    "tr": "Geberit — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Geberit gömme rezervuar, sifon ve montaj sistemlerini Arsera’da inceleyin; alçıpan ve duvar tipi uygulamalarda taşıyıcı–panel eşleştirmesi için bayi teknik desteği."
+  },
+  "keyword": {
+    "tr": "geberit rezervuar, gömme sifon, arsera gaziantep, geberit montaj, banyo altyapı"
+  },
+  "img": "geberit.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Geberit</h2>\n<p>Geberit gömme rezervuar, sifon ve montaj sistemlerini Arsera’da inceleyin; alçıpan ve duvar tipi uygulamalarda taşıyıcı–panel eşleştirmesi için bayi teknik desteği.</p>\n<p>Gömme sistemlerde taşıyıcı tipi, duvar kalınlığı ve servis kapak konumu şantiye öncesi netleştirilmelidir; showroom’da kesit modelleri ile anlatılır.</p>\n<p>Renovasyon projelerinde eski gömme gövde uyumluluğu ve yedek parça kodları konusunda uygulamacılara hızlı referans sağlanır.</p>\n<p>Arsera Seramik üretici değildir; Geberit ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Banyo</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.geberit.com.tr/anasayfa/\" target=\"_blank\" rel=\"noopener\">https://www.geberit.com.tr/anasayfa/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "banyo",
+  "officialUrl": "https://www.geberit.com.tr/anasayfa/",
+  "officialUrls": [
+    "https://www.geberit.com.tr/anasayfa/"
+  ],
+  "priority": 1,
+  "index": 6,
+  "category": "",
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": ""
+}

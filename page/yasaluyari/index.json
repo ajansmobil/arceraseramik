@@ -1,0 +1,23 @@
+{
+  "id": "yasaluyari",
+  "path": "yasaluyari",
+  "name": {
+    "tr": "Yasal Uyarı"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Yasal Uyarı"
+  },
+  "description": {
+    "tr": "Arsera Seramik yasal uyarı. Sitemizdeki bilgiler ve kullanım koşulları hakkında."
+  },
+  "keyword": {
+    "tr": "arsera seramik yasal uyarı, site kullanim kosullari"
+  },
+  "img": "yasaluyari.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Yasal Uyarı</h2>\n<p>Bu web sitesi Arsera Seramik tarafından yönetilmektedir. Sitemizde yer alan tüm içerikler, görseller ve tasarım hakları Arsera Seramik'e aittir.</p>\n<h3>Sorumluluk Reddi</h3>\n<p>Sitemizde yer alan bilgiler, genel bilgilendirme amaçlıdır. Ürün özellikleri, fiyatlar ve mevcut durumlar hakkında güncel bilgi almak için lütfen bizimle iletişime geçiniz.</p>\n<h3>Telif Hakları</h3>\n<p>Sitedeki tüm metin, görsel ve grafiklerin telif hakları Arsera Seramik'e aittir. İzinsiz kullanımı yasaktır.</p>\n<h3>Site Kullanımı</h3>\n<p>Bu siteyi kullanarak, bu yasal uyarıyı ve kullanım koşullarını kabul etmiş olursunuz.</p>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

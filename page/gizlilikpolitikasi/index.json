@@ -1,0 +1,23 @@
+{
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilikpolitikasi",
+  "name": {
+    "tr": "Gizlilik Politikası"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Gizlilik Politikası"
+  },
+  "description": {
+    "tr": "Arsera Seramik gizlilik politikası. Kişisel verilerinizin korunması hakkında bilgiler."
+  },
+  "keyword": {
+    "tr": "arsera seramik gizlilik politikasi, veri koruma"
+  },
+  "img": "gizlilik.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Gizlilik Politikası</h2>\n<p>Arsera Seramik olarak, kişisel verilerinizin güvenliği bizim için önemlidir. Bu politika, toplanan verilerin nasıl kullanıldığını ve korunduğunu açıklar.</p>\n<h3>Veri Toplama</h3>\n<p>Sitemize yaptığınız ziyaretlerde, iletişim formlarında ilettiğiniz bilgiler ve sipariş süreçlerinde toplanan veriler, sadece hizmet sunumu amacıyla kullanılmaktadır.</p>\n<h3>Veri Güvenliği</h3>\n<p>Toplanan veriler, endüstri standartlarında güvenlik önlemleri ile korunmaktadır. Yetkisiz erişim ve veri ihlallerine karşı gerekli teknik ve idari tedbirler alınmaktadır.</p>\n<h3>Veri Paylaşımı</h3>\n<p>Kişisel verileriniz, kanunen zorunlu haller dışında üçüncü kişilerle paylaşılmamaktadır.</p>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

@@ -1,0 +1,366 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "bgcolor": "#EA5C08",
+        "color": "#ffffff",
+        "activebgcolor": "#ED5F0D",
+        "activecolor": "#ffffff"
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "name": "Hero Slider",
+      "path": "slider-text",
+      "local": "header",
+      "category": "slider",
+      "id": "k4t90c",
+      "desing": {
+        "delay": 6000,
+        "margin": "0",
+        "height": "min(85vh, 720px)",
+        "max": "100%",
+        "overlay": "0.52",
+        "align": "left",
+        "titlecolor": "#ffffff",
+        "desccolor": "rgba(255, 255, 255, 0.88)",
+        "btncolor": "#ffffff",
+        "btnbg": "#131514",
+        "border_radius": "4px",
+        "layout": "",
+        "bgcolor": "#131514"
+      },
+      "version": "2.3.2",
+      "icon": "view_carousel",
+      "index": 1,
+      "data": [
+        {
+          "bg": "slider1.jpg",
+          "img": "slider1.jpg",
+          "bgcolor": "#131514",
+          "layout": "left",
+          "title": {
+            "tr": "Arsera Seramik"
+          },
+          "description": {
+            "tr": "İtalyan seramik ve Avrupa banyo markalarını tek showroom’da buluşturur."
+          },
+          "button": {
+            "tr": "Showroom’u ziyaret edin"
+          },
+          "link": "iletisim"
+        },
+        {
+          "bg": "slider2.jpg",
+          "img": "slider2.jpg",
+          "bgcolor": "#131514",
+          "layout": "left",
+          "title": {
+            "tr": "Marka portföyü"
+          },
+          "description": {
+            "tr": "Seramik, banyo, mutfak ve yapı çözümlerinde danışmanlık."
+          },
+          "button": {
+            "tr": "Markaları keşfedin"
+          },
+          "link": "urunler"
+        },
+        {
+          "bg": "slider3.jpg",
+          "img": "slider3.jpg",
+          "bgcolor": "#1A1A1A",
+          "layout": "left",
+          "title": {
+            "tr": "Seramik & yüzey"
+          },
+          "description": {
+            "tr": "Iris, Kale, Settecento ve daha fazlası — showroom’da yerinde görün."
+          },
+          "button": {
+            "tr": "Seramikleri keşfedin"
+          },
+          "link": "urunler"
+        },
+        {
+          "bg": "slider4.jpg",
+          "img": "slider4.jpg",
+          "bgcolor": "#1A1A1A",
+          "layout": "left",
+          "title": {
+            "tr": "Banyo çözümleri"
+          },
+          "description": {
+            "tr": "Hansgrohe, Duravit, Geberit, Laufen — tek noktadan danışmanlık."
+          },
+          "button": {
+            "tr": "Banyo markaları"
+          },
+          "link": "urunler"
+        },
+        {
+          "bg": "slider5.jpg",
+          "img": "slider5.jpg",
+          "bgcolor": "#1A1A1A",
+          "layout": "left",
+          "title": {
+            "tr": "Showroom Gaziantep"
+          },
+          "description": {
+            "tr": "Pancarlı / Şehitkamil — randevu ile ziyaret edin."
+          },
+          "button": {
+            "tr": "İletişime geçin"
+          },
+          "link": "iletisim"
+        }
+      ]
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#131514",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 544 460 06 74",
+          "url": "tel:+905444600674"
+        },
+        {
+          "icon": "phone",
+          "text": "+90 342 000 00 00",
+          "url": "tel:+903420000000"
+        },
+        {
+          "icon": "email",
+          "text": "iskender@arseraseramik.com",
+          "url": "mailto:iskender@arseraseramik.com"
+        },
+        {
+          "icon": "map",
+          "text": "Pancarlı Mahallesi, Abdulkadir Aksu Bulvarı, A Blok, No: 71/L, Şehitkamil / Gaziantep"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#ffffff",
+        "color": "#A7482A",
+        "img": "map.png",
+        "externalUrl": "https://www.google.com/maps/search/?api=1&query=Pancarl%C4%B1+Mahallesi,+Abdulkadir+Aksu+Bulvar%C4%B1,+A+Blok,+No:+71%2FL,+Sehitkamil,+Gaziantep"
+      },
+      "version": "1.0.0",
+      "icon": "map",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Marka vitrin / liste",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "tp5jo4",
+      "desing": {
+        "height": "220",
+        "opacity": "0.55",
+        "font-size": "32",
+        "backgroundcolor": "#131514",
+        "menu-active": "#A7482A",
+        "textcolor": "#F7F5F2",
+        "bgcolor": "#F7F5F2",
+        "color": "#131514",
+        "colortitle": "#131514",
+        "coloractive": "#A7482A",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(19, 21, 20, 0.08)"
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "index": 5,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "bgcolor": "#EA5C08",
+        "color": "#F7F5F2",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 6,
+      "name": "Dört çözüm alanı CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "id": "arc4sg",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #131514 0%, #2a2a2a 100%)",
+        "btnbg": "#A7482A",
+        "btncolor": "#ffffff",
+        "title": {
+          "tr": "Seramik · Banyo · Mutfak · Yapı & Montaj"
+        },
+        "description": {
+          "tr": "Yetkili bayi markalarını segmentlere göre keşfedin; üretici kataloğu değil, showroom danışmanlığı."
+        },
+        "btn1Text": {
+          "tr": "Tüm markalar"
+        },
+        "btn1Url": "urunler",
+        "btn2Text": {
+          "tr": "Showroom"
+        },
+        "btn2Url": "iletisim"
+      },
+      "version": "1.1.0",
+      "icon": "campaign"
+    },
+    {
+      "index": 7,
+      "name": "Öne çıkan markalar",
+      "path": "page-list-6",
+      "local": "body",
+      "category": "page-list",
+      "id": "arcbr6",
+      "desing": {
+        "name": {
+          "tr": "Öne çıkan markalar"
+        },
+        "page": "products",
+        "size": 3,
+        "category": "",
+        "aspect-ratio": "4 / 3",
+        "margin": "24px 0 32px 0",
+        "max": 6
+      },
+      "version": "1.0.0",
+      "icon": "grid_view"
+    },
+    {
+      "index": 10,
+      "name": "Tüm markalar grid",
+      "path": "page-list-6",
+      "local": "body",
+      "category": "page-list",
+      "id": "arcball",
+      "desing": {
+        "name": {
+          "tr": "Markalar"
+        },
+        "page": "products",
+        "size": 3,
+        "category": "",
+        "aspect-ratio": "4 / 3",
+        "margin": "24px 0 32px 0",
+        "max": 24
+      },
+      "version": "1.0.0",
+      "icon": "grid_view"
+    },
+    {
+      "index": 8,
+      "name": "Neden Arsera",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "id": "arcmod",
+      "desing": {
+        "title": {
+          "tr": "Neden Arsera?"
+        },
+        "name": {
+          "tr": "Geniş marka portföyü"
+        },
+        "description": {
+          "tr": "Iris’ten Hansgrohe’ye, Kale’den Geberit’e — seçkin markalar tek çatı altında."
+        },
+        "name2": {
+          "tr": "Showroom danışmanlığı"
+        },
+        "spot2": {
+          "tr": "Uygulama ve malzeme seçiminde yüz yüze destek."
+        },
+        "icon2": "support_agent",
+        "name3": {
+          "tr": "Güvenilir tedarik"
+        },
+        "spot3": {
+          "tr": "Yetkili satıcı olarak orijinal ürün ve proje desteği."
+        },
+        "icon3": "verified",
+        "img": "index.jpg",
+        "bgcolor": "#F7F5F2",
+        "fontcolor": "#131514",
+        "margintop": "16",
+        "marginbotton": "16"
+      },
+      "version": "1.0.0",
+      "icon": "corporate_fare"
+    },
+    {
+      "index": 9,
+      "name": "Showroom CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "id": "arcpct",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(180deg, #131514 0%, #121212 100%)",
+        "btnbg": "#A7482A",
+        "btncolor": "#ffffff",
+        "title": {
+          "tr": "Showroom’u ziyaret edin"
+        },
+        "description": {
+          "tr": "Malzemeyi yerinde görün; projeniz için randevu alın."
+        },
+        "btn1Text": {
+          "tr": "İletişim"
+        },
+        "btn1Url": "iletisim",
+        "btn2Text": {
+          "tr": "Markalar"
+        },
+        "btn2Url": "urunler"
+      },
+      "version": "1.1.0",
+      "icon": "storefront"
+    }
+  ]
+}

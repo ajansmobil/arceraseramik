@@ -1,0 +1,32 @@
+{
+  "id": "huppe-duvar",
+  "path": "huppe-duvar",
+  "name": {
+    "tr": "Hüppe"
+  },
+  "title": {
+    "tr": "Hüppe — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Hüppe duşakabin ve cam duvar sistemlerini Arsera’da profil–cam kombinasyonlarıyla inceleyin; banyo ölçüsüne göre modül seçimi için yetkili bayi desteği."
+  },
+  "keyword": {
+    "tr": "hüppe duşakabin, cam duvar, arsera, gaziantep, huppe profil"
+  },
+  "img": "huppe.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Hüppe</h2>\n<p>Hüppe duşakabin ve cam duvar sistemlerini Arsera’da profil–cam kombinasyonlarıyla inceleyin; banyo ölçüsüne göre modül seçimi için yetkili bayi desteği.</p>\n<p>Duşakabin ölçüsünde tavan eğimi ve drain konumu cam panel listesini etkiler; showroom’da tipik ölçü tabloları üzerinden ilerlenir.</p>\n<p>Otel ve konut banyolarında kaydırmaz taban ve cam kalınlığı seçenekleri proje risk sınıfına göre birlikte belirlenir.</p>\n<p>Arsera Seramik üretici değildir; Hüppe ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Banyo</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.huppe.com.tr/\" target=\"_blank\" rel=\"noopener\">https://www.huppe.com.tr/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "banyo",
+  "officialUrl": "https://www.huppe.com.tr/",
+  "officialUrls": [
+    "https://www.huppe.com.tr/"
+  ],
+  "priority": 3,
+  "index": 16,
+  "category": "",
+  "icon": "home"
+}

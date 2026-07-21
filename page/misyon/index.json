@@ -1,0 +1,23 @@
+{
+  "id": "misyon",
+  "path": "misyon",
+  "name": {
+    "tr": "Misyon"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Misyon"
+  },
+  "description": {
+    "tr": "Arsera Seramik misyonumuz. Kaliteli, güvenilir ve müşteri odaklı hizmet sunmak."
+  },
+  "keyword": {
+    "tr": "arsera seramik misyon, iris fm misyon"
+  },
+  "img": "misyon.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Arsera Seramik olarak misyonumuz, inşaat sektöründe güvenilir, kaliteli ve yenilikçi çözümler sunarak müşterilerimizin projelerini hayata geçirmelerine yardımcı olmaktır.</p>\n<h2>Hedeflerimiz</h2>\n<ul>\n<li>Müşteri memnuniyetini en üst düzeyde tutmak</li>\n<li>Sektördeki en kaliteli markaları Türkiye'ye kazandırmak</li>\n<li>Profesyonel ve yenilikçi hizmet anlayışıyla fark yaratmak</li>\n<li>Uzun vadeli iş ortaklıkları kurmak</li>\n</ul>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vizyon",
+  "path": "vizyon",
+  "name": {
+    "tr": "Vizyon"
+  },
+  "title": {
+    "tr": "Arsera Seramik - Vizyon"
+  },
+  "description": {
+    "tr": "Arsera Seramik vizyonumuz. Sektörde lider ve tercih edilen firma olmak."
+  },
+  "keyword": {
+    "tr": "arsera seramik vizyon, iris fm vizyon"
+  },
+  "img": "vizyon.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Vizyonumuz</h2>\n<p>Arsera Seramik olarak vizyonumuz, Türkiye'nin ve bölgenin en güvenilir, en geniş ürün yelpazesine sahip ve müşteri odaklı seramik ve yapı malzemeleri firması olmaktır.</p>\n<h2>Gelecek Hedeflerimiz</h2>\n<ul>\n<li>Dünya'nın önde gelen markalarıyla stratejik ortaklıklar geliştirmek</li>\n<li>Dijital dünyada güçlü bir varlık oluşturmak</li>\n<li>Müşterilerimize en geniş ürün yelpazesini en uygun fiyatlarla sunmak</li>\n<li>Sürdürülebilir ve çevreci çözümlerle sektöre yön vermek</li>\n</ul>"
+  },
+  "update": "2026-04-29",
+  "date": "2026-04-29"
+}

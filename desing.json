@@ -1,0 +1,80 @@
+{
+  "header": [
+    "vey1el",
+    "k4t90c"
+  ],
+  "body": [
+    "arc4sg",
+    "arcbr6",
+    "arcmod",
+    "arcpct"
+  ],
+  "footer": [
+    "txt39m"
+  ],
+  "headerdefault": [
+    "vey1el"
+  ],
+  "bodydefault": [],
+  "footerdefault": [
+    "txt39m"
+  ],
+  "headtop": "",
+  "headbottom": "",
+  "colors": {
+    "lite": [
+      {
+        "name": "--color1--",
+        "value": "#EA5C08"
+      },
+      {
+        "name": "--color2--",
+        "value": "#ED5F0D"
+      },
+      {
+        "name": "--bg--",
+        "value": "#F7F5F2"
+      },
+      {
+        "name": "--text--",
+        "value": "#1A1A1A"
+      },
+      {
+        "name": "--button--",
+        "value": "#EA5C08"
+      },
+      {
+        "name": "--buttonText--",
+        "value": "#FFFFFF"
+      }
+    ],
+    "dark": [
+      {
+        "name": "--color1--",
+        "value": "#ED5F0D"
+      },
+      {
+        "name": "--color2--",
+        "value": "#EA5C08"
+      },
+      {
+        "name": "--bg--",
+        "value": "#121212"
+      },
+      {
+        "name": "--text--",
+        "value": "#F0EDE8"
+      },
+      {
+        "name": "--button--",
+        "value": "#ED5F0D"
+      },
+      {
+        "name": "--buttonText--",
+        "value": "#121212"
+      }
+    ]
+  },
+  "logoPaletteSource": "D:\\projeler\\arcera\\Web\\matrix\\img\\logo.png",
+  "logoPaletteAt": "2026-07-21T07:24:32.075Z"
+}

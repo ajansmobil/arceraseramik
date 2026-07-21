@@ -1,0 +1,32 @@
+{
+  "id": "settecento-seramik",
+  "path": "settecento-seramik",
+  "name": {
+    "tr": "Settecento"
+  },
+  "title": {
+    "tr": "Settecento — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Settecento İtalyan mozaik ve dekoratif seramikleri Arsera’da desen ölçüsü ve derz rengiyle birlikte görün; banyo ve yaşam alanı projelerinde showroom danışmanlığı alın."
+  },
+  "keyword": {
+    "tr": "settecento mozaik, dekoratif seramik, arsera, gaziantep, italyan seramik"
+  },
+  "img": "settecento.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Settecento</h2>\n<p>Settecento İtalyan mozaik ve dekoratif seramikleri Arsera’da desen ölçüsü ve derz rengiyle birlikte görün; banyo ve yaşam alanı projelerinde showroom danışmanlığı alın.</p>\n<p>Mozaik ve küçük format koleksiyonlarda desen yönü ve derz rengi, mekânın algısını doğrudan değiştirir; bu yüzden numuneleri duvar mock-up’ında birlikte dizeriz.</p>\n<p>Settecento seçimlerinde ıslak hacim ve mutfak tezgah arası gibi farklı kullanım senaryolarını ayrı ayrı ele alır, uygun yapıştırıcı grubunu öneririz.</p>\n<p>Arsera Seramik üretici değildir; Settecento ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Seramik & Yüzey</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://www.settecento.com/it/index.php\" target=\"_blank\" rel=\"noopener\">https://www.settecento.com/it/index.php</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "seramik",
+  "officialUrl": "https://www.settecento.com/it/index.php",
+  "officialUrls": [
+    "https://www.settecento.com/it/index.php"
+  ],
+  "priority": 2,
+  "index": 1,
+  "category": "",
+  "icon": "home"
+}

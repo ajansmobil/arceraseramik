@@ -1,0 +1,32 @@
+{
+  "id": "boheme-bagno",
+  "path": "boheme-bagno",
+  "name": {
+    "tr": "Boheme Bagno"
+  },
+  "title": {
+    "tr": "Boheme Bagno — Arsera Seramik"
+  },
+  "description": {
+    "tr": "Boheme Bagno İtalyan banyo mobilyalarını Arsera’da kapak–lavabo ve ayna modülleriyle birlikte planlayın; özel ölçü taleplerinde showroom proje danışmanlığı."
+  },
+  "keyword": {
+    "tr": "boheme bagno, italyan banyo mobilyası, arsera gaziantep, boheme dolap"
+  },
+  "img": "boheme.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Boheme Bagno</h2>\n<p>Boheme Bagno İtalyan banyo mobilyalarını Arsera’da kapak–lavabo ve ayna modülleriyle birlikte planlayın; özel ölçü taleplerinde showroom proje danışmanlığı.</p>\n<p>Mobilya hatlarında kapak rengi, kulplu/kulpsuz seçenek ve lavabo taşması birlikte değerlendirilir; vitrinde tamamlayıcı ayna modülleri gösterilir.</p>\n<p>Villa projelerinde oda bazlı mobilya listesi çıkarımı ve teslim süresi planlaması için proje sorumlunuzla showroom randevusu önerilir.</p>\n<p>Arsera Seramik üretici değildir; Boheme Bagno ürünlerini <strong>yetkili satıcı</strong> olarak sergiler, projenize uygun model seçiminde showroom ekibi yanınızdadır.</p>\n<h3>Kategori</h3>\n<p>Banyo</p>\n<h3>Resmi site</h3>\n<ul>\n<li><a href=\"https://bohemebagno.com/\" target=\"_blank\" rel=\"noopener\">https://bohemebagno.com/</a></li></ul>\n<p><a href=\"/tr/iletisim/\">Showroom randevusu ve proje soruları</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-04-29",
+  "segment": "banyo",
+  "officialUrl": "https://bohemebagno.com/",
+  "officialUrls": [
+    "https://bohemebagno.com/"
+  ],
+  "priority": 3,
+  "index": 10,
+  "category": "",
+  "icon": "home"
+}
