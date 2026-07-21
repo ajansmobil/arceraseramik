@@ -1352,7 +1352,7 @@
 
 
   .b0002-out {
-    background-color: #F7F5F2;
+    background-color: #FCEEE4;
     width: 100%;
     display: flex;
     align-items: center;
@@ -1461,7 +1461,7 @@
 
     .b0002-left {
       justify-content: center;
-      background-color: #F7F5F2;
+      background-color: #FCEEE4;
     }
   }
 
